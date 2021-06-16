@@ -1,0 +1,19 @@
+html, body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-content: center;
+  align-items: center;
+  margin: 100;
+  padding: 100;
+}
+
+.pop {
+  height: 9vh;
+  width: auto;
+}
+
+canvas {
+  display: block;
+}
